@@ -1,0 +1,31 @@
+c:\users\everest\documents\visual studio 2013\Projects\Ses Komutları\Ses Komutları\bin\Debug\Ses Komutları.exe.config
+c:\users\everest\documents\visual studio 2013\Projects\Ses Komutları\Ses Komutları\bin\Debug\Ses Komutları.exe
+c:\users\everest\documents\visual studio 2013\Projects\Ses Komutları\Ses Komutları\bin\Debug\Ses Komutları.pdb
+c:\users\everest\documents\visual studio 2013\Projects\Ses Komutları\Ses Komutları\obj\Debug\Ses Komutları.csprojResolveAssemblyReference.cache
+c:\users\everest\documents\visual studio 2013\Projects\Ses Komutları\Ses Komutları\obj\Debug\Ses_Komutları.Form1.resources
+c:\users\everest\documents\visual studio 2013\Projects\Ses Komutları\Ses Komutları\obj\Debug\Ses_Komutları.Properties.Resources.resources
+c:\users\everest\documents\visual studio 2013\Projects\Ses Komutları\Ses Komutları\obj\Debug\Ses Komutları.csproj.GenerateResource.Cache
+c:\users\everest\documents\visual studio 2013\Projects\Ses Komutları\Ses Komutları\obj\Debug\Ses Komutları.exe
+c:\users\everest\documents\visual studio 2013\Projects\Ses Komutları\Ses Komutları\obj\Debug\Ses Komutları.pdb
+E:\C #DERSLER AYIRMALI\Ses Komutları\Ses Komutları\bin\Debug\Ses Komutları.exe.config
+E:\C #DERSLER AYIRMALI\Ses Komutları\Ses Komutları\obj\Debug\Ses Komutları.exe
+E:\C #DERSLER AYIRMALI\Ses Komutları\Ses Komutları\obj\Debug\Ses Komutları.pdb
+E:\C #DERSLER AYIRMALI\Ses Komutları\Ses Komutları\bin\Debug\Ses Komutları.exe
+E:\C #DERSLER AYIRMALI\Ses Komutları\Ses Komutları\bin\Debug\Ses Komutları.pdb
+E:\C #DERSLER AYIRMALI\Ses Komutları\Ses Komutları\obj\Debug\Ses Komutları.csprojResolveAssemblyReference.cache
+E:\C #DERSLER AYIRMALI\Ses Komutları\Ses Komutları\obj\Debug\Ses_Komutları.Form1.resources
+E:\C #DERSLER AYIRMALI\Ses Komutları\Ses Komutları\obj\Debug\Ses_Komutları.Properties.Resources.resources
+E:\C #DERSLER AYIRMALI\Ses Komutları\Ses Komutları\obj\Debug\Ses Komutları.csproj.GenerateResource.Cache
+E:\C #DERSLER Açıklamalı\Ses Komutları\Ses Komutları\bin\Debug\Ses Komutları.exe.config
+E:\C #DERSLER Açıklamalı\Ses Komutları\Ses Komutları\obj\Debug\Ses Komutları.exe
+E:\C #DERSLER Açıklamalı\Ses Komutları\Ses Komutları\obj\Debug\Ses Komutları.pdb
+E:\C #DERSLER Açıklamalı\Ses Komutları\Ses Komutları\bin\Debug\Ses Komutları.exe
+E:\C #DERSLER Açıklamalı\Ses Komutları\Ses Komutları\bin\Debug\Ses Komutları.pdb
+E:\C #DERSLER Açıklamalı\Ses Komutları\Ses Komutları\obj\Debug\Ses Komutları.csprojResolveAssemblyReference.cache
+E:\C #DERSLER Açıklamalı\Ses Komutları\Ses Komutları\obj\Debug\Ses_Komutları.Form1.resources
+E:\C #DERSLER Açıklamalı\Ses Komutları\Ses Komutları\obj\Debug\Ses_Komutları.Properties.Resources.resources
+E:\C #DERSLER Açıklamalı\Ses Komutları\Ses Komutları\obj\Debug\Ses Komutları.csproj.GenerateResource.Cache
+E:\C #DERSLER Açıklamalı\Ses Komutları\Ses Komutları\bin\Debug\Ses Komutları.exe.manifest
+E:\C #DERSLER Açıklamalı\Ses Komutları\Ses Komutları\bin\Debug\Ses Komutları.application
+E:\C #DERSLER Açıklamalı\Ses Komutları\Ses Komutları\obj\Debug\Ses Komutları.exe.manifest
+E:\C #DERSLER Açıklamalı\Ses Komutları\Ses Komutları\obj\Debug\Ses Komutları.application
